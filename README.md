@@ -163,7 +163,7 @@ bolao.cpp
 
 ## Autor
 
-Desenvolvido por **Jessica, Kelvin e Ryan** durante as aulas do Módulo 08 do ITEAM.
+Desenvolvido em coletivo por [@RKayky](https://github.com/RKayky), [@DilliKel](https://github.com/DilliKel) e [@iany-jess](https://github.com/iany-jess) durante as aulas do Módulo 08 do ITEAM.
 
 ---
 
